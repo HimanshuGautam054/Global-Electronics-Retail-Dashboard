@@ -22,7 +22,7 @@ Key data cleaning steps:
 - Ensured consistent naming conventions across datasets  
 - Verified data integrity and corrected anomalies  
 
-Excel was used as the first stage to ensure clean and structured data before loading into the database.
+Excel was used as the first stage to ensure clean and structured data before loading it into the database.
 
 ---
 
